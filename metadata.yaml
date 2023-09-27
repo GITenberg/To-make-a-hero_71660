@@ -1,0 +1,33 @@
+_repo: To-make-a-hero_71660
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Garrett, Randall
+    aliases:
+    - Garrett, Gordon Randall
+    - Garret, Randall
+    birthdate: 1927
+    deathdate: 1987
+    gutenberg_agent_id: '25267'
+    url: http://www.gutenberg.org/2009/agents/25267
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Randall_Garrett
+    - https://www.gutenberg.org/ebooks/author/53466
+description: ''
+gutenberg_issued: '2023-09-16'
+identifiers:
+  gutenberg: '71660'
+language: en
+pgterms:marc905: 20230820091443garrett
+pgterms:marc906: '1957'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aNew York, NY :$bRoyal Publications, Inc., $c1957.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: To make a hero
+url: http://www.gutenberg.org/ebooks/71660
