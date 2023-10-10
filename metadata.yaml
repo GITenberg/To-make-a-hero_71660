@@ -1,5 +1,8 @@
 _repo: To-make-a-hero_71660
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71660-h/images/cover.jpg
 creator:
   author:
     agent_name: Garrett, Randall
@@ -14,6 +17,8 @@ creator:
     - https://en.wikipedia.org/wiki/Randall_Garrett
     - https://www.gutenberg.org/ebooks/author/53466
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71660#To-make-a-hero
 gutenberg_issued: '2023-09-16'
 identifiers:
   gutenberg: '71660'
